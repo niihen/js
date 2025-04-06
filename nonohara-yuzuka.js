@@ -1,5 +1,6 @@
 var 
   judul = `
+    <div style="text-align: left;">Nonohara Yuzuka no Himitsu no Haishin</div> 
     <div style="text-align: left;">Japanese: 野々原柚花のヒミツのハイシン</div>
   `,
   sinopsis = `
